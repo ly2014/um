@@ -1,0 +1,1 @@
+A web application based on spring framework and jdbc
